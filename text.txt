@@ -1,0 +1,7 @@
+fonts:
+PT sans regular+bold (most used)
+HelveticaNeue bold
+
+colors:
+bgc: fcdb00
+
